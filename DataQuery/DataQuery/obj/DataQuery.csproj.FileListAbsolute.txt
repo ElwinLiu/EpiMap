@@ -1,0 +1,59 @@
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\DataQuery.exe
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\DataQuery.pdb
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoDataBase.dll
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoMap.dll
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoObjects.dll
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.RasAnalysis.dll
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.SpatialAnalysis.dll
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.RasAnalysis.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.SpatialAnalysis.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoDataBase.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoMap.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\bin\Debug\MapGIS.GeoObjects.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.exe
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.pdb
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\DataQuery\DataQuery\obj\Debug\DataQuery.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.exe
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.pdb
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\DataQuery.exe
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\DataQuery.pdb
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.RasAnalysis.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.SpatialAnalysis.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.GeoDataBase.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.GeoMap.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.GeoObjects.xml
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\K10API示例程序\完成\DataQuery\DataQuery\bin\Debug\MapGIS.GeoDataBase.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\DataQuery.exe
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\DataQuery.pdb
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.GeoDataBase.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.GeoMap.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.GeoObjects.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.SpatialAnalysis.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.UI.Controls.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.GISControl.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.WorkSpaceEngine.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.Desktop.Resources.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.SceneControl.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\bin\Debug\MapGIS.RasAnalysis.dll
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\ResolveAssemblyReference.cache
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.MainForm.resources
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.GenerateResource.Cache
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.exe
+E:\10的工作内容\K10API示例程序\1\DataQuery\DataQuery\obj\Debug\DataQuery.pdb

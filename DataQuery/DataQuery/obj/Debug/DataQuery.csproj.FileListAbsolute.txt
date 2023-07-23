@@ -1,0 +1,35 @@
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.exe
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.pdb
+D:\MapGIS 10\Program\DataQuery.exe.config
+D:\MapGIS 10\Program\DataQuery.exe
+D:\MapGIS 10\Program\DataQuery.pdb
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.MainForm.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\DataQuery\DataQuery\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.exe
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.pdb
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.MainForm.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangjianhao\Desktop\司马云桌面端工程示例\第一页\DataQuery-已改\DataQuery\obj\Debug\GenerateResource.write.1.tlog
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.AssemblyReference.cache
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.SuggestedBindingRedirects.cache
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.BrowseObjects.resources
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.MainForm.resources
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.Properties.Resources.resources
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByAtt.resources
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.QueryByRect.resources
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.GenerateResource.cache
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.CoreCompileInputs.cache
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.exe
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.pdb
+E:\courses\地理信息系统原理与软件开发 Mr.吴亮\实习及课设\课程设计实习3\DataQuery\DataQuery\obj\Debug\DataQuery.csproj.CopyComplete
